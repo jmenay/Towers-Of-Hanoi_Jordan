@@ -1,12 +1,13 @@
-/* School: Tarrant County College District 
-Teacher: Tyson McMillan   Date: 12/07/2022 
+/* 
+School: Tarrant County College District 
+Teacher: Tyson McMillan 
+Date: 12/07/2022 
 Purpose: Recursion in C++ 
 Skills Gained: Towers of Hanoi, Recursion, Validate input, color */
-
 /* credit to ios App 'Algorithm' created by Moriteru Ishida, Yuki Mitsumori, & (Anthony, Brewer Michael Hahn Eglish Translation)
 'Algorithm' helped me by being able to visualize and plan for The Towers of Hanoi program.*/
-/* Further credit to Udemy's Class Beginning C++ Programming - From Beginner to Beyond - Tim Buchalka's Learn Programming Academy, Dr. Frank Mitropoulos for his explanation of recursion in C++ */
-
+/* Further credit to Udemy's Class Beginning C++ Programming - From Beginner to Beyond
+Tim Buchalka's Learn Programming Academy, Dr. Frank Mitropoulos for his explanation of recursion in C++ */
 #include <iostream>
 using std::cout;
 using std::cin;
